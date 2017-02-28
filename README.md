@@ -1,4 +1,7 @@
-# Readme -- Exploiting Flexibility in Coupled Electricity and Natural Gas Markets: A Price-Based Approach (PowerTech 2017)
+# Exploiting Flexibility in Coupled Electricity and Natural Gas Markets: A Price-Based Approach
+
+This repository contains the supplementary material for the paper "Exploiting Flexibility in Coupled Electricity and Natural Gas Markets: A Price-Based Approach" to be published in the proceedings of PowerTech 2017. This is joint work by Christos Ordoudis, Stefanos Delikaraoglou, Pierre Pinson and Jalal Kazempour. The authors are partly sponsored by  
+
 In this repository, we provide:
    1. Detailed mathematical description of transforming the original bilevel model in a Mixed-Integer Linear Program (MILP) and the linearization of cost-neutrality constraint.
    2. Supplementary figures for the results.
